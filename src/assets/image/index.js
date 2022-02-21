@@ -1,0 +1,25 @@
+import pdf from "./pdf.png";
+import xls from "./xls.png";
+import txt from "./txt.png";
+import svg from "./svg.png";
+import rtf from "./rtf.png";
+import ppt from "./ppt.png";
+import mp4 from "./mp4.png";
+import mp3 from "./mp3.png";
+import doc from "./doc.png";
+import csv from "./csv.png";
+import file from "./file.png";
+import odt from "./odt.png";
+
+export const pdfImag = pdf;
+export const xlsImag = xls;
+export const txtImag = txt;
+export const svgImag = svg;
+export const rtfImag = rtf;
+export const pptImag = ppt;
+export const mp4Imag = mp4;
+export const mp3Imag = mp3;
+export const docImag = doc;
+export const csvImag = csv;
+export const fileImag = file;
+export const odtImag = odt;
